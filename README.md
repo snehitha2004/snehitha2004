@@ -8,7 +8,7 @@ Passionate about web development, problem-solving, and designing creative soluti
 
 ### 🔧 Tech Stack
 
-- **Languages:** Java, SQL  
+- **Languages:** Java, SQL, C 
 - **Web Development:** HTML, CSS
 - **Database:** MySQL  
 - **Version Control:** Git & GitHub  
