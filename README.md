@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Snehitha! 👋
 
-<!--
-**snehitha2004/snehitha2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **B.Tech CSE (AI) Student | Full-Stack Web Developer | GDG Core Team**
 
-Here are some ideas to get you started:
+Passionate about web development, problem-solving, and designing creative solutions. Currently exploring full-stack Java development and working on AI-integrated projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+
+- **Languages:** Java, JavaScript, SQL  
+- **Web Development:** HTML, CSS, React.js  
+- **Database:** MySQL  
+- **Version Control:** Git & GitHub  
+
+---
+
+### 📊 GitHub Stats
+
+![Snehitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehitha2004&show_icons=true&theme=light)
+
+---
+
+### 📌 Featured Projects
+
+- **🚗 Vehicle Document Recognition** – AI-based web app for document verification  
+- **💻 Portfolio Website** – Personal portfolio showcasing projects & skills  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehitha1/)  
