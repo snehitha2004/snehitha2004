@@ -2,14 +2,14 @@
 
 🚀 **B.Tech CSE (AI) Student | Full-Stack Web Developer | GDG Core Team**
 
-Passionate about web development, problem-solving, and designing creative solutions. Currently exploring full-stack Java development and working on AI-integrated projects.
+Passionate about web development, problem-solving, and designing creative solutions. Currently exploring full-stack Java development.
 
 ---
 
 ### 🔧 Tech Stack
 
-- **Languages:** Java, JavaScript, SQL  
-- **Web Development:** HTML, CSS, React.js  
+- **Languages:** Java, SQL  
+- **Web Development:** HTML, CSS
 - **Database:** MySQL  
 - **Version Control:** Git & GitHub  
 
