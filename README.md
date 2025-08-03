@@ -23,6 +23,14 @@ Passionate about web development, problem-solving, and designing creative soluti
 
 ---
 
+
+## 🧠 LeetCode Stats
+
+![LeetCode Card](https://leetcard.jacoblin.cool/gsnehitha04?theme=dark&font=baloo&ext=activity)
+
+
+---
+
 ### 📌 Featured Projects
 
 - **🚗 Vehicle Document Recognition** – AI-based web app for document verification  
