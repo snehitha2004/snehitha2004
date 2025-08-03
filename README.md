@@ -24,6 +24,14 @@ Passionate about web development, problem-solving, and designing creative soluti
 ---
 
 
+## 📊 GitHub Streaks
+
+![Snehitha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehitha2004&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+
+---
+
+
 ## 🧠 LeetCode Stats
 
 ![LeetCode Card](https://leetcard.jacoblin.cool/gsnehitha04?theme=dark&font=baloo&ext=activity)
